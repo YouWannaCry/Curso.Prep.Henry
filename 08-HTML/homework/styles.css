@@ -1,0 +1,25 @@
+title{
+    color: red;
+}
+h1{
+    color:yellow;
+}
+span{
+    font-size: 18px;
+    width: 50px;
+}
+#thirdDiv{
+    width: 600px;
+    height: 500px;
+    background-color: cornflowerblue;
+    padding: 50px;
+    border: tomato;
+    border-width: 50px;
+    border-style: double;
+}
+img{
+    width: 400px;
+}
+li{
+    width: 400px;
+}
